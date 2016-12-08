@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: conFusionApp
+  host: conFusionApp
+  disk_quota: 1024M
+  services:
+  - conFusionApp-cloudantNoSQLDB
+  - availability-monitoring-auto
