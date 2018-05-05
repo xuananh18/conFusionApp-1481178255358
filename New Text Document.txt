@@ -9,6 +9,7 @@ https://www.fshare.vn/file/YSISUF5OOY/
 https://www.fshare.vn/file/T9IL4IYZTWSX
 
 https://www.youtube.com/watch?v=GvGiumPW2Mg
+https://www.youtube.com/watch?v=F5zDLz0qhik
 https://stackoverflow.com/questions/18379238/send-email-with-php-from-html-form-on-submit-with-the-same-script
 http://www.freecontactform.com/email_form.php
 https://www.google.com.vn/search?q=send+email+contact+form+html+use+php&rlz=1C1CHBF_enVN791VN791&oq=send+email+contact+form+html+use+php&aqs=chrome..69i57.22542j0j4&sourceid=chrome&ie=UTF-8
